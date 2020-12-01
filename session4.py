@@ -102,3 +102,7 @@ class Qualean():
             return (self.number).sqrt()
         else:
             return complex(0, (abs(self.number)).sqrt())
+            
+            
+            
+''' Modified on 1st dec            
